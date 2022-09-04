@@ -1,6 +1,5 @@
 class Solution {
     public String reverseWords(String s) {
-        //https://www.youtube.com/watch?v=vhnRAaJybpA
         int i=0;
         int n = s.length();
         String result = "";
